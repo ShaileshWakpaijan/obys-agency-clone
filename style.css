@@ -1,19 +1,19 @@
 
 @font-face {
     font-family: "Plain Light";
-    src: url("./fonts/plain-light-webfont.ttf");
+    src: url("./fonts/plain-light-webfont.woff2");
 }
 @font-face {
     font-family: "Plain Light";
-    src: url("./fonts/plain-regular-webfont.ttf");
+    src: url("./fonts/plain-regular-webfont.woff2");
 }
 @font-face {
     font-family: "Silk Serif";
-    src: url("./fonts/silkserif-lightitalic-webfont.ttf");
+    src: url("./fonts/silkserif-lightitalic-webfont.woff2");
 }
 @font-face {
     font-family: "Silk Serif";
-    src: url("./fonts/silkserif-regularitalic-webfont.ttf");
+    src: url("./fonts/silkserif-regularitalic-webfont.woff2");
 }
 
 * {
